@@ -1,56 +1,50 @@
 # Horiseon-Social-Solution-Services
 
 ## Description 
-Homepage for marketing agency Horiseon. The codebase has been improved so that the site is more accessible.
 
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
+This is a homepage for marketing agency Horiseon. The codebase has been improved so that the site is more accessible and to improve its SEO.
 
-The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
-
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
-
-Lastly, if your project is deployed, include a link to the deployed application here.
-
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
+This has been achieved by:
+- Adding descriptive alt text to the images and icons in the HTML code
+- Fixing broken links
+- Adding semantic elements to the HTML code
 
 
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Follow the link below to view the webpage:
 
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
+This webpage is easy to navigate, either scroll down to see what services Horiseon offer or click the three sectons at the top of the page on the right hand side.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+HTML resources:
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+https://www.w3schools.com/html/html5_semantic_elements.asp
 
-If you followed tutorials, include links to those here as well.
+https://www.w3schools.com/tags/att_img_alt.asp
+
+CSS Resources:
+
+https://codecoda.com/en/blog/entry/css-selectors-properties-and-values
+
+https://www.w3schools.com/css/css_comments.asp
+
+
+
+Information on accessibility: 
+
+http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
+
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
+
+https://generatepress.com/forums/topic/hero-image-elements-dont-bring-in-the-alt-tag/page/3/
+
 
 
 ## License
