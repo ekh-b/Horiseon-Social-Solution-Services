@@ -12,7 +12,7 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #ffffff; /* Set the colour of headings to white */
 }
 
 .header h1 {
@@ -42,7 +42,7 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #ffffff;/* Set colour of main text to white */
     text-decoration: none;
 }
 
@@ -117,6 +117,8 @@ p {
     text-align: center;
 }
 
+/*Image and icon properties*/
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -188,6 +190,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*Footer properties*/
 
 .footer {
     padding: 30px;
