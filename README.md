@@ -23,6 +23,10 @@ https://ekh-b.github.io/Horiseon-Social-Solution-Services/#social-media-marketin
 
 This webpage is easy to navigate, either scroll down to see what services Horiseon offer or click the three sectons at the top of the page on the right hand side.
 
+![image](FinishedProduct.png)
+
+
+
 ## Credits
 
 HTML resources:
@@ -51,6 +55,6 @@ https://generatepress.com/forums/topic/hero-image-elements-dont-bring-in-the-alt
 
 ## License
 
-Please refer to the LICENSE in the repo.
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
