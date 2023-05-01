@@ -41,6 +41,9 @@ https://codecoda.com/en/blog/entry/css-selectors-properties-and-values
 
 https://www.w3schools.com/css/css_comments.asp
 
+https://www.smashingmagazine.com/2022/07/article-section-elements-accessibility/#:~:text=section%20And%20article%20In%20Browsers%20%23&text=The%20article%20element%20has%20the,our%20grouping%20of%20content%20represents.
+
+
 
 
 Information on accessibility: 
